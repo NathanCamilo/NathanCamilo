@@ -9,8 +9,8 @@
 About me
 ---
 I'm a Python-focused Backend Software Developer with a strong background in AI, Machine Learning, and Data Science. I build data-driven solutions that generate value via intelligent automation and advanced analytics.
-
 My stack is geared towards developing and scaling end-to-end AI solutions.
+
 <div align="left">
   <h3> 🚀 Core Tech Stack
   <p>My stack is focused on developing and scaling end-to-end AI solutions across multiple cloud platforms and using a wide range of modern frameworks.</p>
