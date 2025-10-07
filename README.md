@@ -1,5 +1,5 @@
-### Hi there, I'm Nathan Camilo 👋
-# Software Developer | Data Scientist | ML & AI | SQL Expert | AWS Cloud | GCP
+# Hi there, I'm Nathan Camilo 👋
+### Software Developer | Data Scientist | ML & AI | SQL Expert | AWS Cloud | GCP
 📍 Goiânia, Goiás, Brazil
 <p align="left">
   <a href="https://www.linkedin.com/in/nathan-camilo-bueno-454936184" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
