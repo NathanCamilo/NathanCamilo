@@ -5,7 +5,8 @@
   <a href="https://www.linkedin.com/in/nathan-camilo-bueno-454936184" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nathancamilo145@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-# About me
+
+About me
 ---
 I'm a Python-focused Backend Software Developer with a strong background in AI, Machine Learning, and Data Science. I build data-driven solutions that generate value via intelligent automation and advanced analytics.
 
