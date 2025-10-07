@@ -13,8 +13,7 @@ My stack is geared towards developing and scaling end-to-end AI solutions.
 
 <div align="left">
   <h3> 🚀 Core Tech Stack
-  <p>My stack is focused on developing and scaling end-to-end AI solutions across multiple cloud platforms and using a wide range of modern frameworks.</p>
-  
+    
   <strong>Programming Languages:</strong>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
