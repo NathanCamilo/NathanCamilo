@@ -32,11 +32,13 @@ My stack is geared towards developing and scaling end-to-end AI solutions.
   <strong>Data Science & ML:</strong>
   <p>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LangGraph-f26522?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Artificial%20Intelligence-5c5c5c?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+   <img src="https://img.shields.io/badge/Llama-0078f7?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/LangGraph-f26522?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/LangSmith-4A044E?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Tavily-000000?style=for-the-badge" />
   </p>
   
   <strong>Cloud:</strong>
